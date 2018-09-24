@@ -1,4 +1,4 @@
-## Globus Online (GridFTP) :smily: Fa18-523-74
+## Globus Online (GridFTP) :Smily: Fa18-523-74
 
 
 |          |                             |
